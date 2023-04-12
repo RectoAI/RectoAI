@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, Welcome to Recto AI</h1>
 <h3 align="center">Experience the future of crypto with our AI-driven platform</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rectoai" alt="rectoai" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rectoai" target="blank"><img src="https://img.shields.io/twitter/follow/rectoai?logo=twitter&style=for-the-badge" alt="rectoai" /></a> </p>
-
 - ⚡ Visit: **rectoprotocol.com**
 
 <h3 align="left">Connect with me:</h3>
