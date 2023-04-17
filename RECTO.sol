@@ -9,9 +9,9 @@
 /**
  * RECTO AI
     TOTAL 1% tax:
-    0.5% Auto Add to Liqudity POOL .
+    0.4% Auto Add to Liqudity POOL .
     0.4% Auto added to Staking contract.
-    0.1% Auto Send to team wallet address.
+    0.2% Auto Send to team wallet address.
 */
 
 // SPDX-License-Identifier: MIT
@@ -459,8 +459,8 @@ contract ERC20 is Context, IERC20 {
     address public _liquidityPoolAddress;
     address public liquidityPair;
     uint public stakingFee = 40; //0.4% divisor 100
-    uint public liquidityFee = 50; //0.5% divisor 100
-    uint public teamFee = 10; //0.1% divisor 100
+    uint public liquidityFee = 40; //0.4% divisor 100
+    uint public teamFee = 20; //0.2% divisor 100
     bool public sellLimiter; //by default false
     uint public sellLimit = 50000 * 10 ** 18; //sell limit if sellLimiter is true
     
