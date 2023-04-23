@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to Recto AI</h1>
 <h3 align="center">Experience the future of crypto with our AI-driven platform</h3>
 
-- ⚡ Visit: **rectoprotocol.com**
+- ⚡ Visit: **rectoai.com**
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
