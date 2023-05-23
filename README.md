@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to Recto Ai</h1>
+<h1 align="center">Welcome to Recto Ai</h1>
 <h3 align="center">Experience the future of crypto with our AI-driven platform</h3>
 
 - ⚡ Visit: **rectoai.com**
